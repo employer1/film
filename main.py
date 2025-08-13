@@ -24,4 +24,8 @@ ajouter_button.pack(fill="x", padx=20, pady=5)
 consulter_button = tk.Button(root, text="Consulter", command=run_consulter)
 consulter_button.pack(fill="x", padx=20, pady=5)
 
+# Quit button to close the application
+quitter_button = tk.Button(root, text="Quitter", command=root.destroy)
+quitter_button.pack(fill="x", padx=20, pady=5)
+
 root.mainloop()
