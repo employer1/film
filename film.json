@@ -1,0 +1,27 @@
+{
+    "titre": "film",
+    "liste": [
+        {
+            "vu": [
+                {
+                    "titre": "8 mile",
+                    "année": "2002"
+                },
+                {
+                    "titre": "21 jump street",
+                    "année": "2012"
+                }
+            ],
+            "pas vu": [
+                {
+                    "titre": "",
+                    "année": ""
+                },
+                {
+                    "titre": "",
+                    "année": ""
+                }
+            ]
+        }
+    ]
+}
